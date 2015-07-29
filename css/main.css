@@ -1,0 +1,18 @@
+.red {
+    height: 300px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.icon {
+    color: #008eb9;
+    font-size: 100px;
+}
+
+.footer {
+    text-align: center;
+}
+
+.top-buffer {
+    margin-top: 20px; 
+}
